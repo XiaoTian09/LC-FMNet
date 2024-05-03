@@ -1,7 +1,7 @@
 # LC-FMNet
 A location-constrainted FCN model for mechanism determination
 
-Introduction： A new focal mechanism determination method based on a fully convolutional neural network is proposed for accurately and efficiently inverting source mechanisms. Our approach incorporates aligned P-wave data, azimuth, and take-off angle as inputs, with Gaussian distributions of strike, dip, and rake as training labels. The model trained on the numerical datasets, is successfully applied to field data. Both numerical tests and field data applications demonstrate the effectiveness of our proposed method.
+Introduction： A new focal mechanism determination method based on a fully convolutional neural network is proposed for accurately and efficiently inverting source mechanisms. Our approach incorporates aligned P-wave data, azimuth, and take-off angle as inputs, with Gaussian distributions of strike, dip, and rake as training labels. The model trained on the numerical datasets, is successfully applied to field data. 
 
 
 'train.py' : Mechanism determination network based on FCN. The input is aligned P-wave data, azimuth, and take-off angle with the size of 1*64*128*3. The output size is 1*128*3*1.
