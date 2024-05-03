@@ -1,18 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2023/12/22 9:24
-# @Author  : yichongchen
+# @Time    : 2024/5/3 9:24
+# @Author  : tianxiao
 # @purpose ：
-# -*- coding: utf-8 -*-
-# @Time    : 2023/11/27 17:50
-# @Author  : yichongchen
-# @purpose ：
-# -*- coding: utf-8 -*-
-# @Time    : 2023/11/26 15:19
-# @Author  : yichongchen
-# @purpose ：
-'''
-Good is 0.873070
-'''
 
 from __future__ import print_function
 import os
