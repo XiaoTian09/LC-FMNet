@@ -13,6 +13,6 @@ Introduction： A new focal mechanism determination method based on a fully conv
 'Plot_kagan.m and mapping.m' is a script to draw the prediction.
 
 
-The traning data demo (2000 samples,765 Mb) are accessible on the Jianguoyun via https://www.jianguoyun.com/p/DckcF9IQov3zBxjqx84FIAA
+The traning data demo (2000 samples,765 MB) are accessible on the Jianguoyun via https://www.jianguoyun.com/p/DckcF9IQov3zBxjqx84FIAA
 
 Any questions, please contact: tianx@ecut.edu.cn
