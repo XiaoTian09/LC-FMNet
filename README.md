@@ -8,7 +8,7 @@ Introduction： A new focal mechanism determination method based on a fully conv
 
 'Traindata_demo.mat' is the training data of 2000 samples with the size of 2000*64*128*3.
 
-'Trainlabel_demo.5.mat' is corresponding to the training label of 2000 samples with the size of 2000*128*3.
+'Trainlabel_demo.mat' is corresponding to the training label of 2000 samples with the size of 2000*128*3.
 
 'Plot_kagan.m and mapping.m' is a script to draw the prediction.
 
